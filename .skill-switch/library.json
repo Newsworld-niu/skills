@@ -2,6 +2,32 @@
   "version": "2",
   "resources": [],
   "projectProfiles": [],
-  "mcpServers": [],
+  "mcpServers": [
+    {
+      "id": "0313b579-ab2e-4d02-b3dd-05e75d352785",
+      "slug": "computer-use",
+      "name": "computer-use",
+      "description": "从 codex 导入的 MCP 服务",
+      "transport": "stdio",
+      "command": "./Codex Computer Use.app/Contents/SharedSupport/SkyComputerUseClient.app/Contents/MacOS/SkyComputerUseClient",
+      "args": [
+        "mcp"
+      ],
+      "envSpecs": [],
+      "headerSpecs": [],
+      "tags": [
+        "imported"
+      ],
+      "projectIds": [],
+      "createdAt": 1795450822883,
+      "updatedAt": 1795450822883,
+      "provenance": {
+        "kind": "external-app",
+        "label": "外部导入 (codex)",
+        "sourcePath": "/Users/news/.codex/config.toml",
+        "appId": "codex"
+      }
+    }
+  ],
   "plugins": []
 }
