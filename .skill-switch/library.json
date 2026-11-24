@@ -630,7 +630,9 @@
       "id": "36bb6487-b04c-48d4-ab7c-af4c10383b31",
       "name": "academy",
       "kind": "skill",
-      "itemIds": []
+      "itemIds": [
+        "b0b0874b-6a3c-437e-81ce-623768bf0540"
+      ]
     }
   ]
 }
