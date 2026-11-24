@@ -617,6 +617,13 @@
         "9a90f0e7-474f-4cd8-9517-cb910145481c",
         "eb5f8d8e-c00a-4873-bbf1-80f307ad892a"
       ]
+    },
+    {
+      "id": "aa6d4e06-8aa3-4d2d-bfd2-e0c499ab37d1",
+      "name": "stitch",
+      "kind": "skill",
+      "parentId": "89715ba2-44c9-4171-bf4b-937784d3e8ee",
+      "itemIds": []
     }
   ]
 }
