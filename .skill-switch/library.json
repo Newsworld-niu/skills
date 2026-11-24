@@ -606,7 +606,6 @@
       "name": "design",
       "kind": "skill",
       "itemIds": [
-        "6ee0e459-267a-4694-a943-a89d4afb58b6",
         "a0edb2e5-fb97-46c9-8f9c-384081b1560b",
         "aeb1a71d-33b8-4f1a-b696-d87115d085e4",
         "4a0528ee-6bbe-4a3f-be35-0bf9d5ec9ba1",
@@ -623,7 +622,8 @@
         "56906c30-92c1-4aad-a502-237698d3f881",
         "a1a0b9a3-ab21-4cee-ab72-ceb77a9bdcfb",
         "6c2612dc-43e0-497e-9de9-6358a7381de9",
-        "61911f89-c4c5-4a98-bd65-1a8ab8b881fa"
+        "61911f89-c4c5-4a98-bd65-1a8ab8b881fa",
+        "6ee0e459-267a-4694-a943-a89d4afb58b6"
       ]
     }
   ]
