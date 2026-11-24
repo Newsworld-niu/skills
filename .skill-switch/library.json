@@ -599,5 +599,13 @@
         "sourcePath": "/Volumes/KIOXIA/stitch-skills-1.0.zip#plugins/stitch-utilities"
       }
     }
+  ],
+  "folders": [
+    {
+      "id": "89715ba2-44c9-4171-bf4b-937784d3e8ee",
+      "name": "design",
+      "kind": "skill",
+      "itemIds": []
+    }
   ]
 }
