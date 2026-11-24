@@ -443,14 +443,21 @@
       "transport": "stdio",
       "command": "npx",
       "args": [
-        "-y @playwright/mcp@latest --browser chromium --executable-path /usr/bin/chromium --headless --no-sandbox"
+        "-y",
+        "@playwright/mcp@latest",
+        "--browser",
+        "chromium",
+        "--executable-path",
+        "/usr/bin/chromium",
+        "--headless",
+        "--no-sandbox"
       ],
       "envSpecs": [],
       "headerSpecs": [],
       "tags": [],
       "projectIds": [],
       "createdAt": 1795512612266,
-      "updatedAt": 1795512612266,
+      "updatedAt": 1795513690771,
       "provenance": {
         "kind": "manual",
         "label": "本地创建"
