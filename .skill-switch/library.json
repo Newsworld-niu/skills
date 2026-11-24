@@ -605,7 +605,9 @@
       "id": "89715ba2-44c9-4171-bf4b-937784d3e8ee",
       "name": "design",
       "kind": "skill",
-      "itemIds": []
+      "itemIds": [
+        "6ee0e459-267a-4694-a943-a89d4afb58b6"
+      ]
     }
   ]
 }
